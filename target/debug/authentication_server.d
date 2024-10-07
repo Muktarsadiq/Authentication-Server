@@ -1,0 +1,1 @@
+/Users/user/Desktop/rust_50/authentication_server/target/debug/authentication_server: /Users/user/Desktop/rust_50/authentication_server/src/auth.rs /Users/user/Desktop/rust_50/authentication_server/src/error.rs /Users/user/Desktop/rust_50/authentication_server/src/main.rs
